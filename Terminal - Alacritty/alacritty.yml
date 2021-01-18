@@ -1,6 +1,9 @@
 background_opacity: 0.92
 window:
   decorations: false
+  padding:
+    x: 20
+    y: 20
 
 font:
   # The size to use.
@@ -20,4 +23,3 @@ font:
   italic:
     family: Monoid
     style: Italic
-    
